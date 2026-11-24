@@ -127,6 +127,7 @@ Signova is an **ongoing project** and I plan to continue developing it with impr
 **Prototype — Ongoing Development**
 
 More features, improvements, and refinements will be added as the project evolves.
+HNKJCJ
 
 
 
